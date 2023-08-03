@@ -7,7 +7,7 @@ done
 
 sleep 2
 
-for FILE in *
+for FILE i*
 do
 echo $FILE
 done
