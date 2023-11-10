@@ -14,7 +14,7 @@ pipeline {
       }
     }
 
-    stage('error') {
+    stage('Deployyed') {
       steps {
         sh 'echo \'deployed\''
       }
